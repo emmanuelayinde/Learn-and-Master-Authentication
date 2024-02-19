@@ -1,0 +1,9 @@
+{
+  "apiKey": "YOUR-API-KEY",
+  "authDomain": "YOUR-AUTH-DOMAIN",
+  "projectId": "YOUR-PROJECT-DOMAIN",
+  "storageBucket": "YOUR-STORAGE-BUCKET",
+  "messagingSenderId": "YOUR-MESSANGING-SENDER-ID",
+  "appId": "YOUR-APPID",
+  "databaseURL": "YOUR-DATABASE-URL"
+}

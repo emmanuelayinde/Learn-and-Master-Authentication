@@ -1,0 +1,8 @@
+# Unwanted directories
+__pycache__/
+venv/
+
+# Secret Files
+.env
+firebase_config.json
+firebase-adminsdk

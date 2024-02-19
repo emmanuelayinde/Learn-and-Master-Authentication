@@ -5,4 +5,4 @@ venv/
 # Secret Files
 .env
 firebase_config.json
-firebase-adminsdk
+firebase-adminsdk.json
